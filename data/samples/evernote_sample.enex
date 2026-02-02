@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<en-export export-date="20260201T130000Z" application="Evernote" version="10.0">
+
+    <!-- Note 1 -->
+    <note>
+        <title>Projet Alpha 2026</title>
+        <content>
+            <![CDATA[
+                <en-note>
+                    <div>Note de test pour le tagging automatique.</div>
+                    <div>Mots clés : python, tutorial, api.</div>
+                    <div>Image de test: <img src="/data/samples/images_test/temp_attachement_cache.jpg" /></div>
+                    <div>Lien externe: <a href="https://docs.python.org/">Python Docs</a></div>
+                </en-note>
+            ]]>
+        </content>
+        <created>20260201T120000Z</created>
+        <updated>20260201T120500Z</updated>
+        <tag>important</tag>
+        <tag>archives</tag>
+    </note>
+
+    <!-- Note 2 -->
+    <note>
+        <title>Documentation Pandoc</title>
+        <content>
+            <![CDATA[
+                <en-note>
+                    <div>Test conversion HTML → Markdown avec Pandoc.</div>
+                    <div>Tableau complexe:</div>
+                    <table border="1">
+                        <tr><th>Langage</th><th>Version</th></tr>
+                        <tr><td>Python</td><td>3.11</td></tr>
+                        <tr><td>JavaScript</td><td>ES2021</td></tr>
+                    </table>
+                    <div>Lien interne: <a href="note2.md">Note 2</a></div>
+                </en-note>
+            ]]>
+        </content>
+        <created>20260201T121000Z</created>
+        <updated>20260201T121500Z</updated>
+        <tag>tutorial</tag>
+        <tag>pandoc</tag>
+    </note>
+
+    <!-- Note 3 -->
+    <note>
+        <title>Assets Test</title>
+        <content>
+            <![CDATA[
+                <en-note>
+                    <div>Cette note contient plusieurs images pour test de duplication.</div>
+                    <div>Images: 
+                        <img src="/data/samples/images_test/IMG_00456_FINAL.jpg" />
+                        <img src="/data/samples/images_test/temp_attachement_cache.jpg" />
+                        <img src="/data/samples/images_test/vacances_2024.jpg" />
+                    </div>
+                    <div>Lien: <a href="https://github.com/">GitHub</a></div>
+                </en-note>
+            ]]>
+        </content>
+        <created>20260201T122000Z</created>
+        <updated>20260201T122500Z</updated>
+        <tag>assets</tag>
+        <tag>test</tag>
+    </note>
+
+</en-export>
